@@ -19,5 +19,7 @@ RUN curl -J -L -o /tmp/bashio.tar.gz \
 # copy local files
 COPY root/ /
 
+RUN chmod a+x /entrypoint.sh
+
 ENTRYPOINT ["/entrypoint.sh"]
 
