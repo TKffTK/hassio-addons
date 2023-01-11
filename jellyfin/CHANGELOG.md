@@ -1,3 +1,8 @@
+## 10.8.8-RC1
+
+- Update jellyfin to 10.8.8
+- Change version numbering to match jellyfin version
+
 ## 0.11.0
 
  - Update jellyfin to 10.7.7-1 (linuxserver/jellyfin:10.7.7-1-ls130)
