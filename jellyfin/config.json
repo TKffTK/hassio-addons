@@ -1,6 +1,6 @@
 {
-  "name": "jellyfin2",
-  "version": "10.8.8-RC2",
+  "name": "jellyfin",
+  "version": "10.8.8-1-RC3",
   "slug": "jellyfin",
   "legacy": false,
     "maintenance": {

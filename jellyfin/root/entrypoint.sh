@@ -5,9 +5,8 @@
 ## USERNAME=$(bashio::config 'username')
 
 
-
-JELLYFINDIR="/share/jellyfin2/"
-CONFIGDIR="/config/jellyfin2"
+JELLYFINDIR="/share/jellyfin/"
+CONFIGDIR="/config/jellyfin"
 FFMPEGDIR="/usr/lib/jellyfin-ffmpeg/"
 
 

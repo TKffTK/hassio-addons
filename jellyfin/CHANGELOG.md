@@ -1,10 +1,17 @@
-## 10.8.8
+## 10.8.8-1
 
 - Update jellyfin to 10.8.8
-- Change version numbering to match jellyfin version
+- Change version numbering include jellyfin version
+  - `<jellyfin-version>-<this plugin version>`
+- Make jellyfin work in host network, to support ULPN
+- Changed base image to jellyfin/jellyfin
 
 ### RC2
 Permission fix
+
+### RC3
+removed tmp -name
+
 
 ## 0.11.0
 
