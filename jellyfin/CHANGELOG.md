@@ -2,16 +2,10 @@
 
 - Update jellyfin to 10.8.8
 - Change version numbering include jellyfin version
-  - `<jellyfin-version>-<this plugin version>`
-- Make jellyfin work in host network, to support ULPN
-- Changed base image to jellyfin/jellyfin
-
-### RC2
-Permission fix
-
-### RC3
-removed tmp -name
-
+  - New version number format: `<jellyfin-version>-<this plugin version>`
+- Make Jellyfin work in host network, to support uPNP and DLNA
+  - uPNP requires multicast to work, and docker does not know howto redirect it into the containers
+- Change Docker base image to from linuxserver/jellyfin to jellyfin/jellyfin
 
 ## 0.11.0
 

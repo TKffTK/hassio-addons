@@ -13,14 +13,14 @@ pretty easy. Follow [the official instructions][third-party-addons] on the
 website of Home Assistant, and use the following URL:
 
 ```txt
-https://github.com/petersendev/hassio-addons
+https://github.com/tkfftk/hassio-addons
 ```
 
 ## Available addons
 
 [//]: # (ADDONLIST_START)
 
-### [jellyfin](jellyfin/)
+### [jellyfin](jellyfin/README.md)
 A Free Software Media System that puts you in control of managing and streaming your media.
 
 [//]: # (ADDONLIST_END)
