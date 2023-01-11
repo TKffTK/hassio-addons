@@ -1,7 +1,10 @@
-## 10.8.8-RC1
+## 10.8.8
 
 - Update jellyfin to 10.8.8
 - Change version numbering to match jellyfin version
+
+### RC2
+Permission fix
 
 ## 0.11.0
 
