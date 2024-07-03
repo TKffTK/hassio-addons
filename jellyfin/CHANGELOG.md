@@ -1,3 +1,8 @@
+## 10.9.7
+
+ - Update jellyfin to 10.9.7 (jellyfin/jellyfin:10.9.7-ls130) 
+
+
 ## 10.8.8-1
 
 - Update jellyfin to 10.8.8

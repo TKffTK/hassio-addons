@@ -1,8 +1,8 @@
 {
     "build_from": {
-        "armhf": "jellyfin/jellyfin:10.8.8-armhf",
-        "aarch64": "jellyfin/jellyfin:10.8.8-arm64",
-        "amd64": "jellyfin/jellyfin:10.8.8-amd64"
+        "armhf": "jellyfin/jellyfin:10.9.7-armhf",
+        "aarch64": "jellyfin/jellyfin:10.9.7-arm64",
+        "amd64": "jellyfin/jellyfin:10.9.7-amd64"
     },
     "squash": false,
     "args": {}
