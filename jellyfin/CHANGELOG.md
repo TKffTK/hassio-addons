@@ -1,6 +1,11 @@
-## 10.9.7
+## 10.9.9
 
- - Update jellyfin to 10.9.7 (jellyfin/jellyfin:10.9.7-ls130) 
+- Update jellyfin to 10.9.7 (jellyfin/jellyfin:10.9.9)
+- Fixed to use correct docker image
+
+## 10.9.7
+BROKEN!
+ - Update jellyfin to 10.9.7 (jellyfin/jellyfin:10.9.7)
 
 
 ## 10.8.8-1

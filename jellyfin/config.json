@@ -1,6 +1,6 @@
 {
   "name": "jellyfin",
-  "version": "10.9.7",
+  "version": "10.9.9",
   "slug": "jellyfin",
   "legacy": false,
   "description": "A Free Software Media System that puts you in control of managing and streaming your media. Media system includes direct streaming to TV with DLNA.",
