@@ -1,3 +1,8 @@
+## 10.10.3
+
+- Update jellyfin to 10.10.3 (jellyfin/jellyfin:10.10.3)
+
+
 ## 10.9.9
 
 - Update jellyfin to 10.9.7 (jellyfin/jellyfin:10.9.9)
